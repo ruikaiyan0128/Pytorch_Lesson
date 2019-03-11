@@ -1,1 +1,1 @@
-Pytorch Lesson
+Pytorch Lesson Exercises
